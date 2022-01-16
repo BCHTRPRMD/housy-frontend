@@ -1,1 +1,1 @@
-update ci/cd version 20.1
+update ci/cd version 2.5
