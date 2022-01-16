@@ -1,1 +1,1 @@
-update ci/cd 1.1
+update ci/cd version 1.2
